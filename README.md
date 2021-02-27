@@ -1,2 +1,2 @@
 # Neural_Networks_Project
-This the pytorch implementation of the tasks in Neural Networks course
+This contains the pytorch implementation of the tasks in Neural Networks course
